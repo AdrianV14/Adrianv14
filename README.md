@@ -27,10 +27,10 @@ Most of my work focuses on modern web development, and I'm always looking for wa
   <img style="padding-right: .5rem; width: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman">
 </div>
 
-<hr style="border: none; height:1px; background-color: #333;">
+#
 
 <details>
-  <summary><h3> 🚀 My Coding Journey </h3></summary>
+  <summary> <h3>🚀 Adrian's Coding Journey</h3> </summary>
   I started my programming journey back in high school, where my technical career was in Informatics.  
   We learned C++, a bit of object-oriented programming, web development, and some database concepts with MySQL.  
   
@@ -44,4 +44,4 @@ Most of my work focuses on modern web development, and I'm always looking for wa
   
   Currently, I’m focused on **learning, growing in the field, and seeking new opportunities**, as I firmly believe that in IT, there’s always something new to learn — which is exactly why I chose this path.
 
-
+</details>
