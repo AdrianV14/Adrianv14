@@ -6,4 +6,4 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam vel consectetur 
 
 ## 🛠 Languages & Tools
 
-<img style="align-content: left; padding-right: 10px; width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/icons/typescript/typescript-plain.svg" alt="TypeScript">
+<img style="align-content: left; padding-right: 10px; width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript">
