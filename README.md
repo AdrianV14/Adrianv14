@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/822fcc8df1633008d599cfe1c3a85e7d15374fa6d9b08e3262e04106b4ea44b0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667"><img align="left" alt="HTML" title="HTML" width="30px" src="https://camo.githubusercontent.com/822fcc8df1633008d599cfe1c3a85e7d15374fa6d9b08e3262e04106b4ea44b0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
