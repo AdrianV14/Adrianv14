@@ -1,8 +1,9 @@
 # 🐱‍💻 Adrian Valdez
-** `Software Engineer`
+** `Software Engineer` **
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam vel consectetur soluta, maiores libero eveniet, ab magni eius repellendus ullam corrupti repellat a dolorem eaque iure quia eos odit placeat.lorem Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla neque eligendi modi in. Eaque, veniam placeat. Reiciendis dolores fugit minima illo quam excepturi quasi reprehenderit aspernatur, repellat incidunt corrupti consequatur?
-
+Hi! 
+Computer Systems Engineer who enjoys building web applications, learning new technologies, and solving problems with code.
+Currently exploring more about modern web development and always working on improving my skills 🚀
 
 ## 🛠 Languages & Tools
 <div>
